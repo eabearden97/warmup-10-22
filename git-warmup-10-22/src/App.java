@@ -5,6 +5,8 @@ public class App {
         for (int i=1; i<=10; i++) {
             System.out.println(i);
         }
-        
+
+        System.out.println("Why did the Java Developer quit his job?");
+        System.out.println("Because he didn't get arrays.");
     }
 }
